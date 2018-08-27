@@ -10,7 +10,6 @@
     font-family: 'Roboto', sans-serif;
     line-height: 1.0;
     color: #9e9e9e;
-    background: #fcfcfc;
   }
 
   a {
@@ -20,7 +19,14 @@
   ul {
     padding: 0;
     list-style-type: none;
+  }
 
+  h3 {
+    text-align: center;
+    font-weight: bold;
+    padding-top: 40px;
+    margin: 0 auto;
+    color: #606060;
   }
 
   /*--------------------
@@ -33,6 +39,9 @@
       width: 100%;
       font-weight: bold;
       top: 0;
+      background: #f9f9f9;
+      padding-top: 10px;
+      padding-bottom: 40px;
     }
 
     .main-nav {
@@ -54,12 +63,44 @@
       background: #ffffff;
     }
 
+    .name{
+      margin-top: 10px;
+    }
+
+/* -- Element Styles -- */
+
+
     .profile-image {
       display: block;
       margin: 40px auto;
       width: 275px;
     }
 
+    .introchar {
+      margin: 0 auto;
+      width: 85%;
+      font-size: 18px;
+      line-height: 1.6;
+      }
+
 
 
     /* -- Containers -- */
+
+    .portfolio {
+      padding
+    }
+
+
+
+
+
+
+
+
+
+    .clearfix::after {
+  content: "";
+  display: table;
+  clear: both;
+}
