@@ -35,7 +35,7 @@
 
 /* -- Navigation -- */
 
-    .main-header {
+.main-header {
       width: 100%;
       font-weight: bold;
       top: 0;
@@ -44,53 +44,54 @@
       padding-bottom: 40px;
     }
 
-    .main-nav {
+.main-nav {
       display: block;
       margin: 10px 15px;
     }
 
-    .name,
-    .main-nav a {
+.name,
+.main-nav a {
       display: block;
       text-align: center;
       padding: 10px 15px;
       color: #606060;
     }
 
-    .main-nav a {
+.main-nav a {
       font-size: 1.1em;
       margin-top: 15px;
       background: #ffffff;
     }
 
-    .name{
+.name{
       margin-top: 10px;
     }
 
 /* -- Element Styles -- */
 
 
-    .profile-image {
+.profile-image {
       display: block;
       margin: 40px auto;
       width: 275px;
     }
 
-    .introchar {
-      margin: 0 auto;
-      width: 85%;
-      font-size: 18px;
-      line-height: 1.6;
+.introchar {
+    margin: 0 auto;
+    width: 85%;
+    font-size: 18px;
+    line-height: 1.6;
       }
 
 
 
     /* -- Containers -- */
 
-    .portfolio {
-      padding
-    }
-
+.marketing-page {
+  display: block;
+  margin: 40px auto;
+  width: 300px;
+}
 
 
 
