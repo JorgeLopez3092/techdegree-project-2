@@ -22,11 +22,7 @@
   }
 
   h3 {
-    text-align: center;
-    font-weight: bold;
-    padding-top: 40px;
-    margin: 0 auto;
-    color: #606060;
+
   }
 
   /*--------------------
@@ -67,6 +63,14 @@
       margin-top: 10px;
     }
 
+  .main-footer {
+    width: 100%;
+    font-weight: bold;
+    top: 0;
+    background: #f9f9f9;
+    padding-top: 10px;
+    }
+
 /* -- Element Styles -- */
 
 
@@ -78,10 +82,58 @@
 
 .introchar {
     margin: 0 auto;
+    text-align: center;
     width: 85%;
     font-size: 18px;
     line-height: 1.6;
       }
+
+.port-contact {
+    font-weight: bolder;
+    font-size: 20px;
+    text-align: center;
+    font-weight: bold;
+    padding-top: 40px;
+    margin: 0 auto;
+    color: #606060;
+
+}
+
+.page-name {
+  border: 3px solid red;
+  text-align: center;
+  font-weight: bold;
+  padding-top: 10px;
+  margin: 0 auto;
+  color: #606060;
+}
+
+.page-description {
+  font-size: 16px;
+  font-weight: lighter;
+  text-align: center;
+  width: 85%;
+  padding-top: 10px;
+  margin: 0 auto;
+  color: #606060;
+  }
+
+  .last-page {
+    padding-bottom: 80px;
+  }
+
+  .contact {
+
+  }
+
+.lastcomment {
+  margin: 0 auto;
+  text-align: center;
+  width: 85%;
+  font-size: 18px;
+  line-height: 1.6;
+  padding-top: 40px;
+  }
 
 
 
